@@ -1,0 +1,29 @@
+
+<style>
+body {
+    background-color: #1a1a1a;
+    color: #f4f4f4;
+    font-family: 'Georgia', serif;
+}
+h1, h2, h3 {
+    color: #e0e0e0;
+    text-shadow: 1px 1px #000;
+}
+.sidebar .sidebar-content {
+    background-color: #2d2d2d;
+}
+.block-container {
+    padding: 2rem;
+}
+.stButton>button {
+    background-color: #444;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 0.5em 1em;
+    font-weight: bold;
+}
+.stButton>button:hover {
+    background-color: #666;
+}
+</style>
